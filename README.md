@@ -3,6 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 01: October 31, 2022
 
+- Today's Task: Sign up Page.
 
 
 ## Day 00: October 30, 2022
