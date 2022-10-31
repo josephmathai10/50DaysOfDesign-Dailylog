@@ -3,9 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 01: October 31, 2022
 
-- Today's Task: Sign up Page.
-- Task Description: Signup page of an app for volunteering in a small environmental organisation asking people to plant more trees and save our planet.
-- Today's Work: [Signup](https://user-images.githubusercontent.com/81356075/199033695-3f3b52c1-2ed9-47c9-b994-c6ec6598e1a8.png)
+
 
 ## Day 00: October 30, 2022
 
