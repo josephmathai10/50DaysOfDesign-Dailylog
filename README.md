@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 02: November 1, 2022
+
+- Today's Task: Payment Checkout.
+- Task Description: A Payment Checkout page of a website that focuses on selling of Premium Footwears of Exclusive Brands.
+- Today's Work: [002](https://user-images.githubusercontent.com/81356075/199250964-0db44430-5b2a-4228-b930-30ab1df8b400.png)
+
 ## Day 01: October 31, 2022
 
 - Today's Task: Sign up Page.
