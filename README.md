@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 03: November 2, 2022
 
 - Today's Task: VR Shopping Site.
-- Task Description: The Gear VR comes with a wide 96-degree field of view. The wide field view ensures precise head-tracking so you get the most immersive experience possible. This headset is lightweight and compact so you can wear it comfortably for hours together.
+- Task Description: A VR Shopping page of a website that sells VR products like gadgets and devices.
 - Today's Work: [003](https://user-images.githubusercontent.com/81356075/199540656-da697b5f-fc0e-41a0-af11-09d350eebad3.png)
 
 ## Day 02: November 1, 2022
