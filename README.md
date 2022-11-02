@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 03: November 2, 2022
+
+- Today's Task: VR Shopping Site.
+- Task Description: The Gear VR comes with a wide 96-degree field of view. The wide field view ensures precise head-tracking so you get the most immersive experience possible. This headset is lightweight and compact so you can wear it comfortably for hours together.
+- Today's Work: [003](https://user-images.githubusercontent.com/81356075/199540656-da697b5f-fc0e-41a0-af11-09d350eebad3.png)
+
 ## Day 02: November 1, 2022
 
 - Today's Task: Payment Checkout.
