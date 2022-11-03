@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 04: November 3, 2022
+
+- Today's Task: Age Calculator.
+- Task Description: Age Calculator can  determine the  age  or  interval  between  two dates.  The  calculated  age  will  be displayed in years, months, weeks, days, hours, minutes, and seconds.
+- Today's Work: [004](https://user-images.githubusercontent.com/81356075/199772277-cb0983d8-a966-4cc1-9b0c-7f5bc1dd93bf.png)
+
 ## Day 03: November 2, 2022
 
 - Today's Task: VR Shopping Site.
