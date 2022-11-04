@@ -21,9 +21,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 02: November 1, 2022
 
-- Today's Task: Payment Checkout.
-- Task Description: A Payment Checkout page of a website that focuses on selling of Premium Footwears of Exclusive Brands.
-- Today's Work: [002](https://user-images.githubusercontent.com/81356075/199250964-0db44430-5b2a-4228-b930-30ab1df8b400.png)
+- **Today's Task:** Payment Checkout.
+- **Task Description:** A Payment Checkout page of a website that focuses on selling of Premium Footwears of Exclusive Brands.
+- **Today's Work:** [002](https://user-images.githubusercontent.com/81356075/199250964-0db44430-5b2a-4228-b930-30ab1df8b400.png)
 
 ## Day 01: October 31, 2022
 
