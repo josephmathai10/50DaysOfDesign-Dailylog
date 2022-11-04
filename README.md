@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 05: November 4, 2022
+
+- **Today's Task:** Yoga App.
+- **Task Description:** Meditate.in is the platform that provides health benefits for both your mind and body with multiple yoga poses, various guided yoga classes and weight loss yoga challenges.
+- **Today's Work:** [005](https://user-images.githubusercontent.com/81356075/200003452-0e5e8e7e-2b78-4cad-b11d-09e18bb4c9d5.png)
+
 ## Day 04: November 3, 2022
 
 - **Today's Task:** Age Calculator.
