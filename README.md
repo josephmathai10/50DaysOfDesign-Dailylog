@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 06: November 5, 2022
+
+- Today's Task: Fitness App.
+- Task Description: This Fitness App provide the userwith instructions and examples of one or more types of exercise, physical activity, nutritional programs, or some other fitness topic.
+- Today's Work: [006](https://user-images.githubusercontent.com/81356075/200116264-f759aa89-1ca7-4a1c-a9cb-bf4068f70499.png)
+
 ## Day 05: November 4, 2022
 
 - **Today's Task:** Yoga App.
