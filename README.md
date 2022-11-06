@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 07: November 6, 2022
+
+- Today's Task: Phone Settings.
+- Task Description: A Smart phone has settings for wireless connections, device-related options, such as screen brightness, notification sounds, and date and time, and privacy and security controls, such as location services and screen lock set-up.
+- Today's Work: [007](https://user-images.githubusercontent.com/81356075/200156713-fb0b37ba-50f2-4c3f-91e2-940996a96faf.png)
+
 ## Day 06: November 5, 2022
 
 - **Today's Task:** Fitness App.
