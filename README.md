@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 08: November 7, 2022
 
-- Today's Task: 404 Error Page
-- Task Description: 404 error page is a web page designated to be displayed when a request triggers the HTTP 404 response code. This code means the client (or, “visitor”) was able to locate the server, but not the specific destination.
-- Today's Work: [008](https://user-images.githubusercontent.com/81356075/200356821-ab9838fe-bd2a-4feb-9401-c98aef693b32.png)
+- **Today's Task:** 404 Error Page
+- **Task Description:** 404 error page is a web page designated to be displayed when a request triggers the HTTP 404 response code. This code means the client (or, “visitor”) was able to locate the server, but not the specific destination.
+- **Today's Work:** [008](https://user-images.githubusercontent.com/81356075/200356821-ab9838fe-bd2a-4feb-9401-c98aef693b32.png)
 
 ## Day 07: November 6, 2022
 
