@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 09: November 7, 2022
 
 - Today's Task: Music Player
-- Task Description: 
+- Task Description: A software that plays audio files encoded in audio formats. Music players are basically those platforms which enable you to play music on the internet without downloading any player or song. These are music streaming platforms from where we can stream and listen to any song, any time.
 - Today's Work: [009]
 
 ## Day 08: November 7, 2022
