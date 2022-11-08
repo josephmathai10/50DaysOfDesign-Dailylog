@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 09: November 7, 2022
 
-- Today's Task: Music Player
-- Task Description: A software that plays audio files encoded in audio formats. Music players are basically those platforms which enable you to play music on the internet without downloading any player or song. These are music streaming platforms from where we can stream and listen to any song, any time.
-- Today's Work: [009]https://user-images.githubusercontent.com/81356075/200600664-52e1214e-a5d9-4251-843e-c1d050efa522.png
+- **Today's Task:** Music Player
+- **Task Description:** A software that plays audio files encoded in audio formats. Music players are basically those platforms which enable you to play music on the internet without downloading any player or song. These are music streaming platforms from where we can stream and listen to any song, any time.
+- **Today's Work:** [009]https://user-images.githubusercontent.com/81356075/200600664-52e1214e-a5d9-4251-843e-c1d050efa522.png
 
 ## Day 08: November 7, 2022
 
@@ -51,12 +51,12 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 01: October 31, 2022
 
-- Today's Task: Sign up Page.
-- Task Description: Signup page of an app for volunteering in a small environmental organisation asking people to plant more trees and save our planet.
-- Today's Work: [001](https://user-images.githubusercontent.com/81356075/199033695-3f3b52c1-2ed9-47c9-b994-c6ec6598e1a8.png)
+- **Today's Task:** Sign up Page.
+- **Task Description:** Signup page of an app for volunteering in a small environmental organisation asking people to plant more trees and save our planet.
+- **Today's Work:** [001](https://user-images.githubusercontent.com/81356075/199033695-3f3b52c1-2ed9-47c9-b994-c6ec6598e1a8.png)
 
 ## Day 00: October 30, 2022
 
-- Today's Task: Planning for the Challenge.
-- Task Description: Researching and planning some design projects to be completed in the challenge period.
-- Today's Work: [000](https://user-images.githubusercontent.com/81356075/198869124-11eb9bde-3b21-4dc6-9fcb-63c4d2361b27.png)
+- **Today's Task:** Planning for the Challenge.
+- **Task Description:** Researching and planning some design projects to be completed in the challenge period.
+- **Today's Work:** [000](https://user-images.githubusercontent.com/81356075/198869124-11eb9bde-3b21-4dc6-9fcb-63c4d2361b27.png)
