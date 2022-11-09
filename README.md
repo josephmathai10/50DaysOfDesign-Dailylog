@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 10: November 9, 2022
+
+- Today's Task: 
+- Task Description: 
+- Today's Work: [010]
+
 ## Day 09: November 8, 2022
 
 - **Today's Task:** Music Player.
