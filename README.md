@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 10: November 9, 2022
 
-- **Today's Task:** Social Share Page.
+- **Today's Task:** Social Share Buttons.
 - **Task Description:** Social share buttons give customers the ability to display their interests on Facebook, Twitter, Pinterest or other platforms. The majority of online shoppers also use at least one form of social media, so these buttons create free promotion for an online store.
 - **Today's Work:** [010](https://user-images.githubusercontent.com/81356075/200854115-51499d5d-e503-4796-8126-33d28e284140.png)
 
