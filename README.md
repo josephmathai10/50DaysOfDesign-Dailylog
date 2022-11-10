@@ -3,8 +3,8 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 11: November 10, 2022
 
-- Today's Task: 
-- Task Description: 
+- Today's Task: Flash Messages.
+- Task Description: Those are App pages that will display success and error pages on basis of our phone activity, internet capability and server activity.
 - Today's Work: [011]
 
 
