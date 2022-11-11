@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 12: November 11, 2022
 
-- Today's Task: Product Site.
-- Task Description: A product site is a page on a company website that showcases the product inventory a customer is able to buy. It's a page that helps customers decide what they want to buy according to different specifications like price, features, reviews, and product comparison
-- Today's Work: [012](https://user-images.githubusercontent.com/81356075/201397065-2bf87f5c-e8a3-4df1-a2f2-11b57ada921f.png)
+- **Today's Task:** Product Site.
+- **Task Description:** A product site is a page on a company website that showcases the product inventory a customer is able to buy. It's a page that helps customers decide what they want to buy according to different specifications like price, features, reviews, and product comparison
+- **Today's Work:** [012](https://user-images.githubusercontent.com/81356075/201397065-2bf87f5c-e8a3-4df1-a2f2-11b57ada921f.png)
 
 ## Day 11: November 10, 2022
 
