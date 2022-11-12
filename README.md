@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 13: November 12, 2022
 
-- Today's Task: Direct Messaging
-- Task Description: Social share buttons give customers the ability to display their interests on Facebook, Twitter, Pinterest or other platforms. The majority of online shoppers also use at least one form of social media, so these buttons create free promotion for an online store.
-- Today's Work: [013](https://user-images.githubusercontent.com/81356075/201482169-62276c46-c9cf-4fa7-b7ff-f7eb975cf359.png)
+- **Today's Task:** Direct Messaging.
+- **Task Description:** Social share buttons give customers the ability to display their interests on Facebook, Twitter, Pinterest or other platforms. The majority of online shoppers also use at least one form of social media, so these buttons create free promotion for an online store.
+- **Today's Work:** [013](https://user-images.githubusercontent.com/81356075/201482169-62276c46-c9cf-4fa7-b7ff-f7eb975cf359.png)
 
 ## Day 12: November 11, 2022
 
