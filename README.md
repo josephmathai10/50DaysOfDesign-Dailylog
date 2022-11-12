@@ -4,8 +4,8 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 13: November 12, 2022
 
 - **Today's Task:** Direct Messaging.
-- **Task Description:** Social share buttons give customers the ability to display their interests on Facebook, Twitter, Pinterest or other platforms. The majority of online shoppers also use at least one form of social media, so these buttons create free promotion for an online store.
-- **Today's Work:** [013](https://user-images.githubusercontent.com/81356075/201482169-62276c46-c9cf-4fa7-b7ff-f7eb975cf359.png)
+- **Task Description:** Direct Messaging is a private mode of communication between social media users. When you send a direct message, only you and the recipient can see the content.
+- **Today's Work:** [013](https://user-images.githubusercontent.com/81356075/201482705-936ca83e-446b-4450-ab49-7ed914507b7f.png)
 
 ## Day 12: November 11, 2022
 
