@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 14: November 13, 2022
 
-- Today's Task: 
+- Today's Task: Countdown Timer.
 - Task Description: 
 - Today's Work:
 
