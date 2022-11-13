@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 14: November 13, 2022
 
 - Today's Task: Countdown Timer.
-- Task Description: 
+- Task Description: A countdown timer is a virtual clock on a landing page that counts down from a certain number or date to indicate the beginning or end of an event or offer.
 - Today's Work:
 
 ## Day 13: November 12, 2022
