@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 15: November 14, 2022
 
 - Today's Task: On / Off Switch
-- Task Description: 
+- Task Description: On / Off buttons enable users to make choices and take action, with just one click. Users can make the decision actions communicated by these buttons.
 - Today's Work: 
 
 ## Day 14: November 13, 2022
