@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 16: November 15, 2022
 
-- Today's Task: Pop up Ads
-- Task Description: Pop-up ads are forms of online advertising on the World Wide Web. A pop-up is a graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface.
-- Today's Work: [016]
+- **Today's Task:** Pop up Ads
+- **Task Description:** Pop-up ads are forms of online advertising on the World Wide Web. A pop-up is a graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface.
+- **Today's Work:** [016](https://user-images.githubusercontent.com/81356075/201968117-89630022-6154-4389-9a1e-692266903905.png)
 
 ## Day 15: November 14, 2022
 
