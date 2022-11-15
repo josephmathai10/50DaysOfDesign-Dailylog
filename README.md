@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 16: November 15, 2022
+
+- Today's Task: Pop up Ads
+- Task Description: Pop-up ads are forms of online advertising on the World Wide Web. A pop-up is a graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface.
+- Today's Work: [016]
+
 ## Day 15: November 14, 2022
 
 - **Today's Task:** On / Off Switch
