@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 17: November 16, 2022
 
 - Today's Task: Email Recipt
-- Task Description: 
+- Task Description: A Email receipt is a written acknowledgment that something of value has been transferred from one party to another. In addition to the receipts consumers typically receive from vendors and service providers, receipts are also issued in business-to-business dealings as well as stock market transactions.
 - Today's Work: 
 
 ## Day 16: November 15, 2022
