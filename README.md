@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 17: November 16, 2022
 
-- Today's Task: 
+- Today's Task: Email Recipt
 - Task Description: 
 - Today's Work: 
 
