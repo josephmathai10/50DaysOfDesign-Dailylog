@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 18: November 17, 2022
+
+- Today's Task: Analytics Chart
+- Task Description: 
+- Today's Work: 
+
 ## Day 17: November 16, 2022
 
 - **Today's Task:** Email Receipt
