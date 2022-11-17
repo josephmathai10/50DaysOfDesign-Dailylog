@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Analytics Chart
 - Task Description: A chart is a graphical representation of price and volume movements of a stock over a certain period of time. In the graphical chart, the X-axis represents the time period and the Y-axis represents the price movement. The time period can vary from intra-day to even a few months or more.
-- Today's Work: 
+- Today's Work: [018](https://user-images.githubusercontent.com/81356075/202493919-e005acf7-7b54-4615-80f3-1a50cef1cab6.png)
 
 ## Day 17: November 16, 2022
 
