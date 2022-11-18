@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 19: November 18, 2022
 
-- Today's Task: 
+- Today's Task: Leaderboard
 - Task Description: 
 - Today's Work: 
 
