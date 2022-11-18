@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Leaderboard
 - Task Description: A leaderboard is a display, that shows a ranked list of players or teams. A leaderboard is organized by score, usually with the highest score at the top. It shows the names and current scores of the leading competitors
-- Today's Work: 
+- Today's Work: [019]
 
 ## Day 18: November 17, 2022
 
