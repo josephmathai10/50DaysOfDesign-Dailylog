@@ -4,8 +4,8 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 20: November 19, 2022
 
 - Today's Task: Location Tracker
-- Task Description: 
-- Today's Work: 
+- Task Description: Location tracking refers to technologies that physically locate and electronically record and track the movement of people or objects. It entails a network of 24 satellites in orbit and devices on the ground that can establish a person or object’s location on Earth with astonishing precision.
+- Today's Work: [020](https://user-images.githubusercontent.com/81356075/202853792-a4bf23dc-1675-486a-8764-350eea019774.png)
 
 ## Day 19: November 18, 2022
 
