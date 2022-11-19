@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 20: November 19, 2022
 
-- Today's Task: 
+- Today's Task: Location Tracker
 - Task Description: 
 - Today's Work: 
 
