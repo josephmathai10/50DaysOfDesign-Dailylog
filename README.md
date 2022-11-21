@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 22: November 21, 2022
+
+- Today's Task: 
+- Task Description: 
+- Today's Work: 
+
 ## Day 21: November 20, 2022
 
 - Today's Task: Home Monitoring App
