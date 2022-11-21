@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Search Bar
 - Task Description: Search bar is the location within a browser that lets you search the Internet for what you want to find. It is a rectangular field on screen that accepts typed-in text in order to look up something or launch a search.
-- Today's Work: 
+- Today's Work: [022]()
 
 ## Day 21: November 20, 2022
 
