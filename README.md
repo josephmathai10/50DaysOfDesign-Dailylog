@@ -3,15 +3,15 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 22: November 21, 2022
 
-- Today's Task: Search Bar
-- Task Description: Search bar is the location within a browser that lets you search the Internet for what you want to find. It is a rectangular field on screen that accepts typed-in text in order to look up something or launch a search.
-- Today's Work: [022](https://user-images.githubusercontent.com/81356075/203067161-2a96819a-c9a9-4438-986d-e84acd17d4a7.png)
+- **Today's Task:** Search Bar
+- **Task Description:** Search bar is the location within a browser that lets you search the Internet for what you want to find. It is a rectangular field on screen that accepts typed-in text in order to look up something or launch a search.
+- **Today's Work:** [022](https://user-images.githubusercontent.com/81356075/203067161-2a96819a-c9a9-4438-986d-e84acd17d4a7.png)
 
 ## Day 21: November 20, 2022
 
-- Today's Task: Home Monitoring App
-- Task Description: A smart home app, sometimes referred to as a home automation app or a smart home automation app, is an application used to remotely control and manage connected non-computing devices in the home, typically from a smartphone or tablet.
-- Today's Work: [021](https://user-images.githubusercontent.com/81356075/202957929-3d947d26-27e4-4c9c-ba61-bc36cfbf6c04.png)
+- **Today's Task:** Home Monitoring App
+- **Task Description:** A smart home app, sometimes referred to as a home automation app or a smart home automation app, is an application used to remotely control and manage connected non-computing devices in the home, typically from a smartphone or tablet.
+- **Today's Work:** [021](https://user-images.githubusercontent.com/81356075/202957929-3d947d26-27e4-4c9c-ba61-bc36cfbf6c04.png)
 
 ## Day 20: November 19, 2022
 
