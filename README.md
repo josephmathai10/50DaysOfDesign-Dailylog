@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 21: November 20, 2022
+
+- Today's Task: Home Monitoring App
+- Task Description: A smart home app, sometimes referred to as a home automation app or a smart home automation app, is an application used to remotely control and manage connected non-computing devices in the home, typically from a smartphone or tablet.
+- Today's Work: [021](https://user-images.githubusercontent.com/81356075/202957929-3d947d26-27e4-4c9c-ba61-bc36cfbf6c04.png)
+
 ## Day 20: November 19, 2022
 
 - **Today's Task:** Location Tracker
