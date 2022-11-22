@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 23: November 22, 2022
 
-- Today's Task: 
+- Today's Task: App Onboarding
 - Task Description: 
 - Today's Work: 
 
