@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 23: November 22, 2022
 
-- Today's Task: App Onboarding
-- Task Description: App onboarding is the process of helping users get started with your app in an automated way, so they begin engaging with high-value features right away. Typically, this is done through a welcome guide that walks users through set up and using the core functionality of the app.
-- Today's Work: [023](https://user-images.githubusercontent.com/81356075/203362610-fd19da2f-f463-4aff-a31f-738a250d6b71.png)
+- **Today's Task:** App Onboarding
+- **Task Description:** App onboarding is the process of helping users get started with your app in an automated way, so they begin engaging with high-value features right away. Typically, this is done through a welcome guide that walks users through set up and using the core functionality of the app.
+- **Today's Work:** [023](https://user-images.githubusercontent.com/81356075/203362610-fd19da2f-f463-4aff-a31f-738a250d6b71.png)
 
 ## Day 22: November 21, 2022
 
