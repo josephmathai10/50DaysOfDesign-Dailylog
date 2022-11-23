@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 24: November 23, 2022
+
+- Today's Task: Boarding Pass
+- Task Description: Mobile boarding pass is an electronic document that enables customers to pass security and board the aircraft by using their mobile device. Mobile boarding pass can be opened from an SMS or e-mail link in mobile browser or in mobile wallet application.
+- Today's Work: 
+
 ## Day 23: November 22, 2022
 
 - **Today's Task:** App Onboarding
