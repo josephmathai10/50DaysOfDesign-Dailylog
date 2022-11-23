@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 24: November 23, 2022
 
-- Today's Task: Boarding Pass
-- Task Description: Mobile boarding pass is an electronic document that enables customers to pass security and board the aircraft by using their mobile device. Mobile boarding pass can be opened from an SMS or e-mail link in mobile browser or in mobile wallet application.
-- Today's Work: [024](https://user-images.githubusercontent.com/81356075/203599903-4a80c262-c0c4-44da-9a4e-e257e5bb95c2.png)
+- **Today's Task:** Boarding Pass
+- **Task Description:** Mobile boarding pass is an electronic document that enables customers to pass security and board the aircraft by using their mobile device. Mobile boarding pass can be opened from an SMS or e-mail link in mobile browser or in mobile wallet application.
+- **Today's Work:** [024](https://user-images.githubusercontent.com/81356075/203599903-4a80c262-c0c4-44da-9a4e-e257e5bb95c2.png)
 
 ## Day 23: November 22, 2022
 
