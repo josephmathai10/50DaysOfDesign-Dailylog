@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 25: November 24, 2022
 
 - Today's Task: TV App
-- Task Description: 
+- Task Description: TV app may refer to Over-the-top media service, which offers content such as television shows directly to viewers via the Internet and is typically accessed via an app on an electronic device
 - Today's Work: 
 
 ## Day 24: November 23, 2022
