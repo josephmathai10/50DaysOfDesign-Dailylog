@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Subscription Page 
 - Task Description: A subscription page is a page located on any page of a website or blog where the users can fill in the fields with their data to receive emails on topics related to their interests.
-- Today's Work: [026]()
+- Today's Work: [026](https://user-images.githubusercontent.com/81356075/204025983-b853d85c-9a7c-44e6-abb4-653936da4c66.png)
 
 ## Day 25: November 24, 2022
 
