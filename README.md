@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 27: November 26, 2022
+
+- Today's Task: 
+- Task Description: 
+- Today's Work: 
+
 ## Day 26: November 25, 2022
 
 - **Today's Task:** Subscription Page 
