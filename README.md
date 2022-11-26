@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 27: November 26, 2022
 
-- Today's Task: Dropdown
-- Task Description: A drop-down list is a graphical control element, similar to a list box, that allows the user to choose one value from a list.
-- Today's Work: [027]()
+- **Today's Task:** Dropdown
+- **Task Description:** A drop-down list is a graphical control element, similar to a list box, that allows the user to choose one value from a list.
+- **Today's Work:** [027](https://user-images.githubusercontent.com/81356075/204093771-763ca76c-7654-462e-b28d-03e81c201147.png)
 
 ## Day 26: November 25, 2022
 
