@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 28: November 27, 2022
 
 - Today's Task: Contact Us
-- Task Description: 
+- Task Description: A contact page is a common web page on a website for visitors to contact the organization or individual providing the website.
 - Today's Work: 
 
 ## Day 27: November 26, 2022
