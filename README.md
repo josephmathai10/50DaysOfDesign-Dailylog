@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 29: November 28, 2022
 
-- Today's Task: 
+- Today's Task: Map
 - Task Description: 
 - Today's Work: 
 
