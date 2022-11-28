@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 29: November 28, 2022
 
-- Today's Task: Map
-- Task Description: An application that charts physical locations on the globe for identification and navigation.
-- Today's Work: [029](https://user-images.githubusercontent.com/81356075/204311484-a4ede546-0a88-4c98-ba83-4bd919e953d6.png)
+- **Today's Task:** Map
+- **Task Description:** An application that charts physical locations on the globe for identification and navigation.
+- **Today's Work:** [029](https://user-images.githubusercontent.com/81356075/204311484-a4ede546-0a88-4c98-ba83-4bd919e953d6.png)
 
 ## Day 28: November 27, 2022
 
