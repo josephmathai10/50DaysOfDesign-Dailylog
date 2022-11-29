@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 30: November 29, 2022
 
-- Today's Task: 
+- Today's Task: Pricing
 - Task Description: 
 - Today's Work: 
 
