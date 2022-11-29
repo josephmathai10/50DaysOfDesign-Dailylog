@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Pricing
 - Task Description: A pricing page is a specific landing page that lists different pricing plans available for your products and services.
-- Today's Work: [030]()
+- Today's Work: [030](https://user-images.githubusercontent.com/81356075/204570177-ecb692d5-6dd6-4e61-9ebd-ee266c010626.png)
 
 ## Day 29: November 28, 2022
 
