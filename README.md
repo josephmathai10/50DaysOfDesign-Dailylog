@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 31: January 7, 2023
 
 - **Today's Task:** File Upload
-- **Task Description:** 
+- **Task Description:** File upload is a feature on a website or application that allows users to select and transfer files from their computer or device to the website or application.
 - **Today's Work:** 
 
 ## Day 30: November 29, 2022
