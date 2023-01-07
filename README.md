@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 31: January 7, 2023
 
-- **Today's Task:** 
+- **Today's Task:** File Upload
 - **Task Description:** 
 - **Today's Work:** 
 
