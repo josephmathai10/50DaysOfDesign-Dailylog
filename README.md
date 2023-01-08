@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 32: January 8, 2023
 
 - **Today's Task:** Crowdfunding Campaign
-- **Task Description:** 
+- **Task Description:** It is a way for individuals or organizations to raise money for a specific cause or goal by soliciting small contributions from a large number of people through an online platform.
 - **Today's Work:** 
 
 ## Day 31: January 7, 2023
