@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Customize Product
 - Task Description: Enabling customers to personalize a product according to their needs and preferences.
-- Today's Work: 
+- Today's Work: [033]()
 
 ## Day 32: January 8, 2023
 
