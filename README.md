@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 33: January 9, 2023
 
-- Today's Task: 
+- Today's Task: Customize Product
 - Task Description: 
 - Today's Work: 
 
