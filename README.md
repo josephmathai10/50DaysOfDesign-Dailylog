@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 34: January 9, 2023
 
 - **Today's Task:** Car Interface
-- **Task Description:** 
+- **Task Description:** It is used to control your vehicle doors (Lock/Unlock), remote start or Stop your engine and even find your current vehicle's location.
 - **Today's Work:**
 
 ## Day 33: January 9, 2023
