@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Blog Post
 - Task Description: A blog is a discussion or informational website published on the World Wide Web.
-- Today's Work: 
+- Today's Work: [035]()
 
 ## Day 34: January 10, 2023
 
