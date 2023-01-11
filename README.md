@@ -1,7 +1,13 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
-## Day 34: January 9, 2023
+## Day 35: January 11, 2023
+
+- Today's Task: 
+- Task Description: 
+- Today's Work: 
+
+## Day 34: January 10, 2023
 
 - **Today's Task:** Car Interface
 - **Task Description:** It is used to control your vehicle doors (Lock/Unlock), remote start or Stop your engine and even find your current vehicle's location.
