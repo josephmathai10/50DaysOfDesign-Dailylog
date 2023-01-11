@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 35: January 11, 2023
 
-- Today's Task: 
+- Today's Task: Blog Post
 - Task Description: 
 - Today's Work: 
 
