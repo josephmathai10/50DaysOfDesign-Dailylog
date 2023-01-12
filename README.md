@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - Today's Task: Special Offer
 - Task Description: A product that is being sold for less than its usual price.
-- Today's Work: [036]()
+- Today's Work: [036](https://user-images.githubusercontent.com/81356075/212107642-34d00bba-2d2a-49a0-a619-d7e920758f78.png)
 
 ## Day 35: January 11, 2023
 
