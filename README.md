@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 36: January 12, 2023
 
 - Today's Task: Special Offer
-- Task Description: 
+- Task Description: A product that is being sold for less than its usual price.
 - Today's Work: 
 
 ## Day 35: January 11, 2023
