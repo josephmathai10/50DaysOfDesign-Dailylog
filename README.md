@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 37: January 13, 2023
 
-- Today's Task: 
+- Today's Task: Weather
 - Task Description: 
 - Today's Work: 
 
