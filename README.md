@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 37: January 13, 2023
 
-- Today's Task: Weather
-- Task Description: The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to days in future and hourly weather forecast.
-- Today's Work: [037](https://user-images.githubusercontent.com/81356075/212350681-72e513ff-e902-4279-bb7c-fb1ececc62e4.png)
+- **Today's Task:** Weather
+- **Task Description:** The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to days in future and hourly weather forecast.
+- **Today's Work:** [037](https://user-images.githubusercontent.com/81356075/212350681-72e513ff-e902-4279-bb7c-fb1ececc62e4.png)
 
 ## Day 36: January 12, 2023
 
