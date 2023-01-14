@@ -3,10 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 38: January 14, 2023
 
-- **Today's Task:** 
-- **Task Description:** 
-- **Today's Work:** 
-
+- **Today's Task:** Calendar
+- **Task Description:** A series of pages showing the days, weeks, and months of a particular year, or giving particular seasonal information.
+- **Today's Work:** [038](https://user-images.githubusercontent.com/81356075/212478331-63016bd5-d75a-4aeb-a519-5d500da6dec2.png)
 
 ## Day 37: January 13, 2023
 
