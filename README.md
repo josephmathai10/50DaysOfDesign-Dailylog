@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 39: January 15, 2023
 
-- Today's Task: 
-- Task Description: 
-- Today's Work: 
+- **Today's Task:** Testimonials
+- **Task Description:** The goal of a testimonial is to show the potential customer that other customers were happy using your service.
+- **Today's Work:** [039](https://user-images.githubusercontent.com/81356075/212552925-e967b7e6-cf13-410d-b06b-31e61d6eef84.png)
 
 ## Day 38: January 14, 2023
 
