@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 40: January 16, 2023
 
 - **Today's Task:** Recipe
-- **Task Description:** 
+- **Task Description:** Application that provide set of instructions for preparing a particular dish, including a list of the ingredients required.
 - **Today's Work:** 
 
 ## Day 39: January 15, 2023
