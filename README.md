@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - **Today's Task:** Recipe
 - **Task Description:** Application that provide set of instructions for preparing a particular dish, including a list of the ingredients required.
-- **Today's Work:** 
+- **Today's Work:** [040]()
 
 ## Day 39: January 15, 2023
 
