@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - **Today's Task:** Workout Tracker
 - **Task Description:** Application for monitoring and tracking fitness-related metrics such as distance walked or run, calorie consumption, and in some cases heartbeat.
-- **Today's Work:** 
+- **Today's Work:** [041]()
 
 ## Day 40: January 16, 2023
 
