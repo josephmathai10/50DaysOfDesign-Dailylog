@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 41: January 17, 2023
 
 - **Today's Task:** Workout Tracker
-- **Task Description:** 
+- **Task Description:** Application for monitoring and tracking fitness-related metrics such as distance walked or run, calorie consumption, and in some cases heartbeat.
 - **Today's Work:** 
 
 ## Day 40: January 16, 2023
