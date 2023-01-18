@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 42: January 18, 2023
+
+- **Today's Task:** To-Do List
+- **Task Description:**  A list of errands and other tasks – often written on a piece of paper as a memory aid – that one needs or intends to accomplish.
+- **Today's Work:** [042](https://user-images.githubusercontent.com/81356075/213239300-5692f2b4-62bc-4601-a6f1-9506f3d9e159.png)
+
 ## Day 41: January 17, 2023
 
 - **Today's Task:** Workout Tracker
