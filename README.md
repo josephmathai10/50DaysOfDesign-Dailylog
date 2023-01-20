@@ -3,9 +3,9 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 07: November 6, 2022
 
-- Today's Task: 
-- Task Description: 
-- Today's Work: 
+- **Today's Task:** 
+- **Task Description:** 
+- **Today's Work:** 
 
 ## Day 43: January 19, 2023
 
