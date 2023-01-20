@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - **Today's Task:** Favourites
 - **Task Description:** Selection in app by simply tap on the star next to the content to convey that you wish to make a favorite.
-- **Today's Work:** [044]()
+- **Today's Work:** [044](https://user-images.githubusercontent.com/81356075/213754115-51fea075-6ed8-4a8b-8b5a-fe0914869067.png)
 
 ## Day 43: January 19, 2023
 
