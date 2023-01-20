@@ -1,6 +1,12 @@
 # 50 Days Of UI Design - Daily Log
 I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfDesign](https://www.dailyui.co/)
 
+## Day 07: November 6, 2022
+
+- Today's Task: 
+- Task Description: 
+- Today's Work: 
+
 ## Day 43: January 19, 2023
 
 - **Today's Task:** Food/Drink Menu
