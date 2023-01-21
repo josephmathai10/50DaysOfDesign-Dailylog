@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - **Today's Task:** Info Card
 - **Task Description:** Information cards provide visual representations of one or more claims that can be used for registration, authentication and other purposes.
-- **Today's Work:** [045]()
+- **Today's Work:** [045](https://user-images.githubusercontent.com/81356075/213877314-d736b878-e8d8-47ff-88f4-b10ca9e282df.png)
 
 ## Day 44: January 20, 2023
 
