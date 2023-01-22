@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 46: January 22, 2023
 
 - **Today's Task:** Invoice
-- **Task Description:** 
+- **Task Description:** An invoice is a commercial online document issued by a seller to a buyer relating to a sale transaction.
 - **Today's Work:** 
 
 ## Day 45: January 21, 2023
