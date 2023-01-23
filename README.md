@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 47: January 23, 2023
 
 - Today's Task: Activity Feed
-- Task Description: 
+- Task Description: An activity feed is a real-time list of actions performed by users on an app or website.
 - Today's Work: 
 
 ## Day 46: January 22, 2023
