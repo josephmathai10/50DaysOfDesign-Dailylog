@@ -3,7 +3,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 ## Day 48: January 24, 2023
 
-- **Today's Task:** 
+- **Today's Task:** Coming Soon
 - **Task Description:** 
 - **Today's Work:** 
 
