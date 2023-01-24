@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 48: January 24, 2023
 
 - **Today's Task:** Coming Soon
-- **Task Description:** 
+- **Task Description:** It is a landing page where you can direct people to learn more about your business or product, capture their interest and encourage them to help amplify your reach—all before your launch.
 - **Today's Work:** 
 
 ## Day 47: January 23, 2023
