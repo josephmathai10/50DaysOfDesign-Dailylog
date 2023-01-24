@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - **Today's Task:** Coming Soon
 - **Task Description:** It is a landing page where you can direct people to learn more about your business or product, capture their interest and encourage them to help amplify your reach—all before your launch.
-- **Today's Work:** [048]()
+- **Today's Work:** [048](https://user-images.githubusercontent.com/81356075/214350058-91e726bf-7c24-45dc-b437-e920cf129f46.png)
 
 ## Day 47: January 23, 2023
 
