@@ -4,7 +4,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 ## Day 50: January 26, 2023
 
 - **Today's Task:** Job Listing
-- **Task Description:** 
+- **Task Description:** Job listings are the primary means through which companies recruit new applicants for available positions.
 - **Today's Work:** 
 
 ## Day 49: January 25, 2023
