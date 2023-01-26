@@ -5,7 +5,7 @@ I'm publicly committing to the 50DaysOfUIDesign Challenge starting today! This r
 
 - **Today's Task:** Job Listing
 - **Task Description:** Job listings are the primary means through which companies recruit new applicants for available positions.
-- **Today's Work:** 
+- **Today's Work:** [050]()
 
 ## Day 49: January 25, 2023
 
